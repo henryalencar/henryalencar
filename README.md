@@ -56,6 +56,12 @@
 🚀 Evoluir constantemente e construir projetos reais
 
 ---
+## 🐍 Contribuições
+
+<img src="https://raw.githubusercontent.com/henryalencar/henryalencar/output/github-contribution-grid-snake.svg" />
+
+---
+
 
 💡 <i>"Transformando código em soluções reais"</i>
 
