@@ -40,27 +40,39 @@
 
 ## 🎬 Projetos em Destaque
 
+### 🏆 Projeto Integrador (PI)
+
+<img src="https://via.placeholder.com/800x400/0d1117/E50914?text=Projeto+Integrador" />
+
+📌 Sistema completo desenvolvido como Projeto Integrador
+
+💡 Objetivo: Resolver um problema real utilizando tecnologia
+
+🔹 Funcionalidades:
+
+* Sistema de login e autenticação
+* Cadastro de usuários
+* CRUD completo
+* Integração com banco de dados
+* Interface moderna e responsiva
+
+🛠 Tecnologias utilizadas:
+
+* React
+* PHP
+* MySQL
+
+---
+
 ### 🖥️ Sistema Help Desk
 
 <img src="https://via.placeholder.com/800x400/0d1117/E50914?text=Sistema+Help+Desk" />
 
-📌 Sistema completo de chamados
+📌 Sistema de gerenciamento de chamados
 
-✔ Login e autenticação
-✔ Cadastro de usuários
 ✔ Abertura de chamados
-✔ Integração com banco de dados
-
----
-
-### ⚖️ Calculadora de IMC
-
-<img src="https://via.placeholder.com/800x400/0d1117/E50914?text=Calculadora+IMC" />
-
-📌 Aplicação feita em React
-
-✔ Cálculo automático
-✔ Interface simples e funcional
+✔ Listagem e organização
+✔ Integração com banco
 
 ---
 
@@ -90,9 +102,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/henry-alencar-a29934288/)
 
-[![Email](https://img.shields.io/badge/Email-E50914?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU_EMAIL)
+[![Email](https://img.shields.io/badge/Email-E50914?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:henryalencar2007@gmail.com)
 
 </div>
 
@@ -108,5 +120,7 @@
 <div align="center">
 
 💡 *"Transformando código em soluções reais"*
+
+</div>
 
 </div>
