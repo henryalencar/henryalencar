@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 Henry Alencar
+#  Henry Alencar
 
 ### 💻 Desenvolvedor Full Stack
 
