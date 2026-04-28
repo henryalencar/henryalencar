@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Henry Alencar
+#  Olá! Eu sou Henry Alencar
 
 ### 💻 Desenvolvedor Full Stack
 
