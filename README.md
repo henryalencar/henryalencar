@@ -19,16 +19,11 @@
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henryalencar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E50914&icon_color=E50914&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henryalencar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryalencar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E50914&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryalencar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&langs_count=6"/>
 
-💻 **Principais linguagens usadas:**  
-🟡 JavaScript — 46.0%  
-🔵 PHP — 19.0%  
-🟠 HTML — 17.4%  
-🟣 CSS — 14.0%  
-⚪ Hack — 3.6%
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henryalencar&theme=github_dark" />
 
 ---
 
@@ -87,27 +82,3 @@
 
 💡 *"Transformando código em soluções reais"*
 
-</div><img src="https://img.shields.io/badge/Instagram-E50914?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:henryalencar2007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/henry-alencar-a29934288/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
----
-
-## 🎯 Objetivo
-
-🚀 Conseguir uma oportunidade como desenvolvedor  
-📚 Evoluir constantemente  
-💼 Trabalhar com tecnologia e criar soluções reais  
-
----
-
-💡 *"Transformando código em soluções reais"*
-
-</div>
