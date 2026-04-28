@@ -17,14 +17,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henryalencar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryalencar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryalencar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&custom_title=Línguas"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henryalencar&theme=github_dark" />
-
+💻 **Linguagens:**  
+🟡 JavaScript 46,0%  
+🔵 PHP 19,0%  
+🟠 HTML 17,4%  
+🟣 CSS 14,0%  
+⚪ Hack 3,6%
 ---
 
 ## 🧠 Tecnologias
