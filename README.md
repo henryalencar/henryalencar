@@ -29,15 +29,23 @@
 
 ### ⚛️ Front-end
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+<img src="https://skillicons.dev/icons?i=js,html,css" />
+
+🔹 JavaScript (46%)  
+🔹 HTML (17.4%)  
+🔹 CSS (14%)
 
 ### ⚙️ Back-end
 
-<img src="https://skillicons.dev/icons?i=php,mysql,nodejs" />
+<img src="https://skillicons.dev/icons?i=php" />
 
-### 🛠 Ferramentas
+🔹 PHP (19%)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+### 🛠 Outros Conhecimentos
+
+<img src="https://skillicons.dev/icons?i=github,vscode" />
+
+🔹 Hack / lógica de programação (3.6%)
 
 ---
 
