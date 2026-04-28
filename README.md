@@ -38,7 +38,7 @@
 
 ---
 
-## 🎬 Projeto em Destaque
+## 🎬 Projetos em Destaque
 
 ### 🏆 Projeto Integrador (PI)
 
@@ -46,6 +46,15 @@
 
 🔗 **Repositório do projeto:**  
 <a href="https://github.com/henryalencar/P.I..SENAC" target="_blank">Clique aqui para acessar</a>
+
+---
+
+### 💼 Projetos TI
+
+📌 Repositório com projetos, atividades e conteúdos voltados à área de Tecnologia da Informação.  
+
+🔗 **Repositório do projeto:**  
+<a href="https://github.com/henryalencar/TI" target="_blank">Clique aqui para acessar</a>
 
 ---
 
