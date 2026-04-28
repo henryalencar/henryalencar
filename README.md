@@ -4,7 +4,7 @@
 
 ### 💻 Desenvolvedor Full Stack
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=E50914&size=28&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub;Desenvolvedor+em+evolução;React+%7C+PHP+%7C+MySQL;Construindo+projetos+reais" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=E50914&size=28&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub;Desenvolvedor+em+evolução;JavaScript+%7C+PHP+%7C+HTML+CSS;Construindo+projetos+reais" />
 
 ---
 
@@ -23,6 +23,13 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryalencar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E50914&text_color=ffffff"/>
 
+💻 **Principais linguagens usadas:**  
+🟡 JavaScript — 46.0%  
+🔵 PHP — 19.0%  
+🟠 HTML — 17.4%  
+🟣 CSS — 14.0%  
+⚪ Hack — 3.6%
+
 ---
 
 ## 🧠 Tecnologias
@@ -31,21 +38,13 @@
 
 <img src="https://skillicons.dev/icons?i=js,html,css" />
 
-🔹 JavaScript (46%)  
-🔹 HTML (17.4%)  
-🔹 CSS (14%)
-
 ### ⚙️ Back-end
 
-<img src="https://skillicons.dev/icons?i=php" />
+<img src="https://skillicons.dev/icons?i=php,mysql" />
 
-🔹 PHP (19%)
+### 🛠 Ferramentas
 
-### 🛠 Outros Conhecimentos
-
-<img src="https://skillicons.dev/icons?i=github,vscode" />
-
-🔹 Hack / lógica de programação (3.6%)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 ---
 
@@ -66,6 +65,29 @@
 
 <a href="https://www.instagram.com/_henryalencar/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E50914?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:henryalencar2007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/henry-alencar-a29934288/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+---
+
+## 🎯 Objetivo
+
+🚀 Conseguir uma oportunidade como desenvolvedor  
+📚 Evoluir constantemente  
+💼 Trabalhar com tecnologia e criar soluções reais  
+
+---
+
+💡 *"Transformando código em soluções reais"*
+
+</div><img src="https://img.shields.io/badge/Instagram-E50914?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:henryalencar2007@gmail.com">
