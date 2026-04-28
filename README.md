@@ -21,7 +21,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henryalencar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryalencar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&custom_title=Línguas&langs_count=5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryalencar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&custom_title=Línguas&langs_count=5&hide=TeX&size_weight=0.5&count_weight=0.5"/>
 ---
 
 ## 🧠 Tecnologias
