@@ -17,20 +17,12 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+<p align="center">Desempenho, linguagens e atividade no GitHub</p>
 
 <div align="center">
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=henryalencar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E50914&icon_color=E50914&text_color=ffffff"
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryalencar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E50914&text_color=ffffff&custom_title=Linguagens&langs_count=6"
-  />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henryalencar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E50914&icon_color=E50914&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryalencar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E50914&text_color=ffffff&custom_title=Linguagens&langs_count=6"/>
 </div>
 
 ---
