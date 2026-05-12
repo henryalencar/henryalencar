@@ -17,15 +17,7 @@
 
 ---
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-<p align="center">Desempenho, linguagens e atividade no GitHub</p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henryalencar&show_icons=true&theme=radical&cache_seconds=30"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryalencar&layout=compact&theme=radical&cache_seconds=30"/>
-</p>
-
----
 
 ## 🧠 Tecnologias
 
